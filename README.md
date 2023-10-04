@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently seeking a job position as a Back end developer.
-- 🌱 I’m currently learning c# / ASP.Net.
+- 🌱 I’m currently learning C# / ASP.NET.
 - ⚡ Fun fact: Love Chess!
 <!--
 **LeonardoGSena/LeonardoGSena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
